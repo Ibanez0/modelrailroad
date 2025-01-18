@@ -1,4 +1,4 @@
-# pywithrottle.py
+# withrottle.py
 # Michel RAULET 2025
 # Version 1.0
 
